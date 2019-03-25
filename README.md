@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/liujian891010/Scorpio.svg?branch=master)](https://travis-ci.org/liujian891010/Scorpio)
 
 
-## 介绍
+## 介绍   [旧仓库地址](https://github.com/lml1848687/Scorpio.git)
 
-这是我在学习 Vue 过程中做的一个 UI 框架，后续在工作中会不断的更新迭代原有的代码及组件。[之前的仓库地址](https://github.com/lml1848687/Scorpio.git)
+这是我在学习 Vue 过程中做的一个 UI 框架，后续在工作中会不断的更新迭代原有的代码及组件。
 
 - 该框架参考了 element、antDesign 的 UI 界面及 API 设计
 - 适应 PC 端和移动端
