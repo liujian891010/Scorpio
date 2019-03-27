@@ -1,6 +1,20 @@
-<template></template>
+<template>
+  <div>
+    <s-button icon="settings" :loading="loading" @click="loading=!loading">默认按钮</s-button>
+  </div>
+</template>
 <script>
-export default {};
+import Button from "./button/button";
+export default {
+  data() {
+    return {
+      loading: true
+    };
+  },
+  components: {
+    "s-button": Button
+  }
+};
 </script>
 
 <style lang="scss" scoped>
