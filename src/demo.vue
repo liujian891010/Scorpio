@@ -1,6 +1,6 @@
 <template>
   <div>
-    <s-button icon="settings" :loading="loading" @click="loading=!loading">默认按钮</s-button>
+    <s-button icon="settings" :loading="loading" @click="loading=!loading">默认按1111111111钮</s-button>
   </div>
 </template>
 <script>
